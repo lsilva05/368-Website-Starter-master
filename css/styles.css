@@ -1,0 +1,53 @@
+/* Stylesheet */
+h1, 
+h3 {
+	color: #333;
+}
+
+h1{
+	
+	font-size: 3em;
+	}
+
+h2 {
+	color: #666;
+	
+}
+
+
+#start {
+	font-size: 1.25em;
+	font-style:italic;
+	color: #111;
+
+	}
+	
+body{
+	font-size: 14px;
+	font-family: sans-serif;
+	letter-spacing: .6px;
+	}
+
+.content {
+	margin: 10px;
+	
+	}
+
+li {
+	display: inline;
+	margin: 10px;
+	background-color: #DDD;
+	padding: 10px 15px 10px 15px;
+	font-variant:small-caps;
+	float: left;
+	}
+	
+a {
+	text-decoration:none;
+	color: #E00
+	}
+	
+#pic1 {
+	border: 1px thin #999;
+	margin : 10px;	
+}
